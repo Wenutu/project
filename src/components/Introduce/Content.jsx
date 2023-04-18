@@ -9,7 +9,7 @@ function Content() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, this <span className="wenutu">Website </span>
-            is to presatation<span className="wenutu"> Projects.</span> <br />
+            is to presentation<span className="wenutu"> Projects.</span> <br />
             <br />
             Projects contains:
           </p>
