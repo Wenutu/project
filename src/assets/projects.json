@@ -15,6 +15,12 @@
         "desc": "Personal Navigation",
         "github": "https://github.com/Wenutu/nav",
         "demo": "https://nav.wenutu.top"
+      },
+      {
+        "img": "/assets/Projects/convert2cartoon.png",
+        "name": "Convert2Cartoon",
+        "desc": "Convert picture to Cartoon",
+        "github": "https://github.com/Wenutu/convert2cartoon"
       }
     ]
   },
@@ -27,6 +33,12 @@
         "desc": "Personal Chat Room using GPT-35",
         "github": "https://github.com/Wenutu/chatgpt",
         "demo": "https://project.wenutu.top/chat"
+      },
+      {
+        "img": "/assets/Projects/convert2cartoon.png",
+        "name": "Convert2Cartoon",
+        "desc": "Convert picture to Cartoon",
+        "github": "https://github.com/Wenutu/convert2cartoon"
       }
     ]
   },
